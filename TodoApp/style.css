@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.Todo{
+    margin: 30px;
+}
+.delete{
+    padding: 4px;
+    background-color: rgb(233, 135, 118);
+    color: white;
+    border: none;
+}
+.edit{
+    padding: 4px;
+    background-color: rgb(118, 225, 233);
+    color: white;
+    border: none;
+}
+.Todobutton{
+    padding: 4px;
+    background-color: rgb(122, 218, 103);
+    color: white;
+    border: none;
+}
